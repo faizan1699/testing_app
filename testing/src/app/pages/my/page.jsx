@@ -2,7 +2,7 @@ import React from 'react'
 
 const Page = () => {
   return (
-    <div>adsfads fkasdh flsdfahsdljfh j</div>
+    <div>this is dummy page for testing purpose</div>
   )
 }
 
